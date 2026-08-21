@@ -1,0 +1,10 @@
+.env
+cookies.txt
+downloads/
+clips/
+*.mp4
+*.mkv
+*.webm
+__pycache__/
+*.pyc
+.venv/
